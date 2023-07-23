@@ -1,0 +1,18 @@
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\bin\Debug\Gun Mayhem.exe.config
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\bin\Debug\Gun Mayhem.exe
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\bin\Debug\Gun Mayhem.pdb
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.AssemblyReference.cache
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.SuggestedBindingRedirects.cache
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun_Mayhem.StartScreen.resources
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun_Mayhem.Properties.Resources.resources
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.GenerateResource.cache
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.CoreCompileInputs.cache
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.exe
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.pdb
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\bin\Debug\EZInput.dll
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\bin\Debug\EZInput.xml
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun_Mayhem.Forms.Map1.resources
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.CopyComplete
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun_Mayhem.Forms.MapSelectionFrm.resources
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun_Mayhem.Forms.Compaign.resources
+A:\Programming\2nd Semester\Projects\Game\Gun Mayhem\obj\Debug\Gun_Mayhem.Forms.EndlessMode.resources

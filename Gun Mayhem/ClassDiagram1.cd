@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gun_Mayhem.GL.Bots" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Bots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.Bullet" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAAAAAAAAAAAIBgAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.CollisionDetection" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAJAAAAAAAAAAAEAIAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>GL\CollisionDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.CompaignMode" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAACIAQAAAAAAAAEwAAAAgEAAAAAAAAAAAAE=</HashCode>
+      <FileName>GL\CompaignMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.EndlessSurvival" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAgAAAAIAAAAYAAAAAEAQAAAAAAAAQAAAAAAAAE=</HashCode>
+      <FileName>GL\EndlessSurvival.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.Game" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAQoIBAAAAGCAAAAAAAAAAAEABAAAAQAEAAAE=</HashCode>
+      <FileName>GL\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.GameAssets" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAEAAIAAQAAAAAAAAAAAAAAAAgAAAAAAEAAg=</HashCode>
+      <FileName>GL\GameAssets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.GameCell" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMCAgAABAAAAAAgAIAAAEAAAAAAAADQAAAAAAAAYAA=</HashCode>
+      <FileName>GL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.GameObject" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAACAAAAAAEAAAQBAAAUAAAAAACAA=</HashCode>
+      <FileName>GL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.Grid" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEAAAgIAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.MeleeBot" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBBAAAAAAAAAAA=</HashCode>
+      <FileName>GL\MeleeBot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Gun_Mayhem.GL.MultiPlayer" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAM=</HashCode>
+      <FileName>GL\MultiPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.Player" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gun_Mayhem.GL.VerticalBot" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\VerticalBot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Gun_Mayhem.GL.BotMovement" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\BotMovement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Gun_Mayhem.GL.GameObjectDirection" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>GL\GameObjectDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gun_Mayhem.GL.GameObjectType" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAMAAAAgAQAAAAAAAAAiAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>GL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
