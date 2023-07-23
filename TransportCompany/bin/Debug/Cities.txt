@@ -1,0 +1,4 @@
+Lahore,Iqbal Town:1,Samanabad:2,Wahdat Road:4,UET:8,Sadar:2
+Karachi,Malir:2,Sadar:8,SeaSide:6,Karachi University:4
+Faisalabad,MadinaTown:2,NFC:3,UET FAISALABD:9
+Islamabad,H12 Sector:5

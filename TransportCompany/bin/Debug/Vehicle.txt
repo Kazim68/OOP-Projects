@@ -1,0 +1,6 @@
+Bike,50
+Auto,100
+Car,170
+Mini,130
+Van,200
+Frieght,250

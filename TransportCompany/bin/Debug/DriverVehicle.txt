@@ -1,0 +1,7 @@
+Ali,Auto
+aaa,Bike
+drac,Bike
+drac,Bike
+drac,Bike
+drac,Car
+drac,Car

@@ -1,0 +1,6 @@
+ark,Lahore,Iqbal Town:1,Samanabad:2,Bike,True,aaa,5
+ahmad,Lahore,Iqbal Town:1,Samanabad:2,Bike,True,aaa,5
+ark,Lahore,UET:8,Samanabad:2,Bike,True,aaa,5
+ark,Lahore,UET:8,Samanabad:2,Auto,True,Ali,5
+ark,Lahore,Samanabad:2,UET:8,Bike,True,aaa,3
+ark,Lahore,Samanabad:2,UET:8,Bike,True,aaa,5
